@@ -1,2 +1,3 @@
 # aluramidi
-projeto Aluramidi em javascript feito junto com a aula de  Javascript da Alura.
+projeto Aluramidi em javascript feito no curso da Alura: <br>
+JavaScript para Web: Crie páginas dinâmicas.
